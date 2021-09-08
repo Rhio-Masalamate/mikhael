@@ -1,4 +1,3 @@
 # mikhael
 tiktok
-amox
-win
+
